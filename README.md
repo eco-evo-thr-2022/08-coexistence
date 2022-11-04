@@ -1,2 +1,2 @@
-# 08-coexistence
-Modern Coexistence Theory
+# Modern Coexistence Theory
+
